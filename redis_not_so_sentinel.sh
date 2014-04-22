@@ -6,7 +6,7 @@
 # for minimal to no data loss
 # 
 # Writen by: Joe Engel
-# Additional Contributors: Mark Lessel
+# Additional Contributors: Mark Lessel - https://github.com/magglass1
 #
 #!/bin/bash
 
